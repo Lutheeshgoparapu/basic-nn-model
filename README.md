@@ -124,4 +124,5 @@ AI_Brain.predict(X_n1_1)
 
 ## RESULT
 
-Include your result here
+To develop a neural network regression model for the given dataset is created sucessfully.
+
